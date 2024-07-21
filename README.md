@@ -2,10 +2,8 @@
 
 I am a Fullstack developer and an undergraduate student pursuing B.Tech (CS) from Pranveer singh institute of technology, India.
 
-- 🔭 I’m currently working on a MERN Project
 - 🌱 I’m Interested to work on Cloud-Native and Devops
 - 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Computer Science
 - 📫 How to reach me: nitin.shukla12004@gmail.com
 
 ### Currently I am working with ...
