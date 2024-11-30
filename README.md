@@ -1,36 +1,82 @@
-## Hello👋 I'm Nitin 👩🏻‍💻
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nitinshukla88.Nitinshukla88">
 
-I am a Fullstack developer and an undergraduate student pursuing B.Tech (CS) from Pranveer singh institute of technology, India.
+### Hi there 👋, I am [Nitin](https://www.linkedin.com/in/nitin-shukla-463730259/)! 😁
 
-- 🌱 I’m Interested to work on Cloud-Native and Devops
+Hello, my name is Nitin Shukla and I am an undergraduate student at [Pranveer Singh Institute of Technology](https://www.psit.ac.in/) majoring in Computer Science. I am a passionate full-stack developer with a strong foundation in building dynamic web applications and solving real-world problems through code. My technology stack involves **React.js**, **Redux**, **Node.js**, **Express.js**, **MongoDB**, **javascript**, **Tailwind CSS**, and **HTML/CSS**. Besides programming, I have an immense interest in sports specially BasketBall 🏀.
+
+- 🔭 I’m currently deepening my expertise in **Modern Web Development** by mastering the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+- 🌱 I’m Interested to work on Generative-AI and Large Language Models.
+- 💬 Brainstorm with me over tech, algorithms, career, and sports 
 - 👯 I’m making the world better by PRs 
 - 📫 How to reach me: nitin.shukla12004@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1s_STzUYxJjqq-QJ6W7dXcKeTSUo0T32b/view?usp=sharing)
 
-### Currently I am working with ...
+<hr>
 
-<a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
-### I have also worked with ...
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-black?logo=Redux&style=social)&nbsp;&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=TailwindCSS&style=social)&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=Node.js&style=social)&nbsp;&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-black?logo=Express.js&style=social)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-<a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Golang" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<hr>
 
-### I post actively on ...
+<h2 align="center">⚡ Stats ⚡</h2>
 
-<a href="https://www.linkedin.com/in/nitin-shukla-463730259/" title="nitinshukla" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Nitin_594" target="_blank" title="Nitin_594" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Nitinshukla88&theme=react&border=61dafb&hide_border=true" alt="Nitinshukla88" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Nitinshukla88&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinshukla88&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinshukla88&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Nitinshukla88/netflix-gpt" title="NetFlix-GPT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinshukla88&repo=netflix-gpt&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Nitinshukla88/youtube-clone" title="YouTube Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinshukla88&repo=youtube-clone&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Nitinshukla88/Facebook-UI-Clone" title="Facebook-UI-Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinshukla88&repo=Facebook-UI-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Nitinshukla88/GrooveBox" title="GrooveBox"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinshukla88&repo=GrooveBox&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Nitinshukla88/JumpMania" title="JumpMania"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinshukla88&repo=JumpMania&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Nitinshukla88/Tic-Tac-Toe" title="Tic-Tac-Toe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinshukla88&repo=Tic-Tac-Toe&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Nitinshukla88?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 
 ### You can also find me on ...
 
@@ -38,20 +84,6 @@ I am a Fullstack developer and an undergraduate student pursuing B.Tech (CS) fro
 <a href="https://www.linkedin.com/in/nitin-shukla-463730259/" title="nitinshukla" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Nitin_594" target="_blank" title="Nitin_594" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:nitin.shukla12004@gmail.com" target="_blank" title="nitin.shukla12004@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Nitinshukla88"><img src="https://github-readme-stats.vercel.app/api?username=Nitinshukla88&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nitinshukla88's GitHub stats" /></a>
-
-<a href="http://www.github.com/Nitinshukla88"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinshukla88&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Nitinshukla88"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitinshukla88&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Nitinshukla88" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinshukla88&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Nitinshukla88/ChatQUBE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinshukla88&repo=ChatQUBE&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Nitinshukla88/JumpMania" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinshukla88&repo=JumpMania&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 # 
 
