@@ -9,7 +9,7 @@ Hello, my name is Nitin Shukla and I am an undergraduate student at [Pranveer Si
 - 💬 Brainstorm with me over tech, algorithms, career, and sports 
 - 👯 I’m making the world better by PRs 
 - 📫 How to reach me: nitin.shukla12004@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1Y5EeCNEAdVAbQpOOnI9dzTyHJxz82cHb/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1IR3Hzfz2MNtfXOPOiQaLA5nGrLX_C85X/view?usp=sharing)
 
 <hr>
 
